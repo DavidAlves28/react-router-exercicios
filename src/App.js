@@ -1,7 +1,9 @@
+import Router from "./Routes/Router";
+
 function App() {
   return (
     <>
-      Exercicio de Router
+      <Router/>
     </>
   );
 }
